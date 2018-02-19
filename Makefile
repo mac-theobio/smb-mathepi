@@ -1,5 +1,5 @@
 
-Sources = Makefile .gitignore README.md makestuff.mk LICENSE.md
+Sources = Makefile .gitignore .ignore README.md makestuff.mk LICENSE.md
 -include target.mk
 
 # -include $(ms)/perl.def
@@ -7,6 +7,15 @@ Sources = Makefile .gitignore README.md makestuff.mk LICENSE.md
 ##################################################################
 
 ## Content
+
+Sources += materials/*
+
+clonedirs += private
+
+private:
+	git clone https://dushoff@bitbucket.org/dushoff/smb-mathepi.git $@
+
+Ignore += $(clonedirs)
 
 ######################################################################
 
