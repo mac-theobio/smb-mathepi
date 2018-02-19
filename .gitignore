@@ -1,0 +1,27 @@
+## Content from .ignore
+local.mk
+target.mk
+.*.sw*
+make.log
+.gitignore 
+
+## content from makestuff
+makestuff
+up.time
+commit.time
+commit.default
+dotdir/
+clonedir/
+.clean_dir
+*.hup
+*.oldfile
+*.olddiff
+up.time
+commit.time
+commit.default
+dotdir/
+clonedir/
+.clean_dir
+*.hup
+*.oldfile
+*.olddiff
