@@ -13,6 +13,11 @@ sites.mk
 creation
 Sandbox
 Workshops
+disease_model_talks
+math_talks
+Rabies_talks
+statistics_talks
+Generation_talks
 diversity_metrics
 Planning
 significance
@@ -20,6 +25,11 @@ Circumcision_and_behaviour
 creation
 Sandbox
 Workshops
+disease_model_talks
+math_talks
+Rabies_talks
+statistics_talks
+Generation_talks
 diversity_metrics
 Planning
 significance
@@ -47,6 +57,8 @@ clonedir/
 creation
 Sandbox
 Workshops
+disease_model_talks
+Generation_talks
 diversity_metrics
 Planning
 significance
