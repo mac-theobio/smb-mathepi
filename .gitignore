@@ -83,3 +83,14 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
+private
+commit.time
+commit.default
+dotdir/
+clonedir/
+private
+up.time
+all.time
+.clean_dir
+*.oldfile
+*.olddiff
