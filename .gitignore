@@ -12,6 +12,7 @@ friends.mk
 sites.mk
 dushoff_repos.def
 friends.def
+dev
 creation
 Sandbox
 Workshops
@@ -21,6 +22,8 @@ significance
 Circumcision_and_behaviour
 Generation_talks
 disease_model_talks
+generation_links
+Generation_distributions
 New_CV
 Lecture_images
 Grading
@@ -67,17 +70,6 @@ coreFaculty
 plague
 fgc
 smb-mathepi
-up.time
-all.time
-.clean_dir
-*.oldfile
-*.olddiff
-private
-commit.time
-commit.default
-dotdir/
-clonedir/
-private
 up.time
 all.time
 .clean_dir
