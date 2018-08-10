@@ -3,9 +3,9 @@ local.mk
 target.mk
 .*.sw*
 make.log
-.gitignore 
 
 ## content from makestuff
+<<<<<<< HEAD
 local.mk
 dushoff_repos.mk
 friends.mk
@@ -76,6 +76,8 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
+=======
+>>>>>>> bb098044f8ef665d78169a55916d220dafb067e6
 private
 commit.time
 commit.default
