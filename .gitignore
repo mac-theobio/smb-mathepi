@@ -5,7 +5,6 @@ target.mk
 make.log
 
 ## content from makestuff
-<<<<<<< HEAD
 local.mk
 dushoff_repos.mk
 friends.mk
@@ -23,11 +22,11 @@ Circumcision_and_behaviour
 Generation_talks
 disease_model_talks
 generation_links
+generation_links
 Generation_distributions
 New_CV
 Lecture_images
 Grading
-networkSEIR
 competenceFramework
 rabies_report
 rabies_correlations
@@ -46,6 +45,7 @@ QMEE
 Lab_meeting
 smb-mathepi
 networkSEIR
+networkSEIR
 commit.time
 commit.default
 dotdir/
@@ -58,6 +58,7 @@ Planning
 significance
 Generation_talks
 disease_model_talks
+generation_links
 generation_links
 New_CV
 Lecture_images
@@ -76,8 +77,6 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
-=======
->>>>>>> bb098044f8ef665d78169a55916d220dafb067e6
 private
 commit.time
 commit.default
