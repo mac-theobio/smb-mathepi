@@ -5,7 +5,6 @@ target.mk
 make.log
 
 ## content from makestuff
-<<<<<<< HEAD
 local.mk
 dushoff_repos.mk
 friends.mk
@@ -82,8 +81,6 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
-=======
->>>>>>> 12367b1f70b343514d41ca0a2e4a896de78ddebb
 private
 commit.time
 commit.default
