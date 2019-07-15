@@ -20,9 +20,11 @@ Ignore += $(clonedirs)
 
 ######################################################################
 
+## ballot.html: ballot.md
+Sources += ballot.md
+
 include makestuff.mk
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
 
-# -include $(ms)/wrapR.mk
-# -include $(ms)/texdeps.mk
+-include $(ms)/pandoc.mk
