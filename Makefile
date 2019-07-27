@@ -22,6 +22,7 @@ Ignore += $(clonedirs)
 
 ## ballot.html: ballot.md
 Sources += ballot.md
+Ignore += ballot.html
 
 include makestuff.mk
 -include $(ms)/git.mk
